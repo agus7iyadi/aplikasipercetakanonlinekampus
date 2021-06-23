@@ -31,10 +31,11 @@ $ git pull origin master
 
 # akun admin 
 **username : admin@gmail.com**
-**password : 123456**
+
+password : 123456
 
 # akun user
 
 **username : pengguna@gmail.com**
-**password : 123456**
+password : 123456
 
