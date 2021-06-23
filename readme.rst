@@ -1,8 +1,13 @@
 ###################
 Mager Printing
-https://user-images.githubusercontent.com/49966289/123093947-7f1fd280-d456-11eb-8206-c28158e4b368.png
+
+
 
 Rancang bangun aplikasi malas gerak (mager) printing adalah salah satu aplikasi percetakan document pdf/docx berbasis web yang dapat digunakan untuk membantu proses pencetakan dokumen secara online. Selama ini yang awalnya jika kita mencetak suatu dokumen secara manual sekarang kita dapat mengirimkan saja dokumen tersebut melalui web ini , Sehingga penerimaan pesanan serta pengambilan barang lebih cepat, efektif, Rancang bangun aplikasi malas gerak (mager) printing berbasis web di bangun menggunakan bahasa pemograman boostrap, php, html, css, dengan di dukung basis data mysql.
+
+
+
+![Alt text](http://full/path/to/https://user-images.githubusercontent.com/49966289/123093947-7f1fd280-d456-11eb-8206-c28158e4b368.png "Optional title")
 
 
 
@@ -10,7 +15,7 @@ Rancang bangun aplikasi malas gerak (mager) printing adalah salah satu aplikasi 
 Tampilan
 ###################
 
-![](https://user-images.githubusercontent.com/49966289/123093947-7f1fd280-d456-11eb-8206-c28158e4b368.png)
+
 
 
 
