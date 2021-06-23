@@ -10,7 +10,7 @@ Rancang bangun aplikasi malas gerak (mager) printing adalah salah satu aplikasi 
 Tampilan
 ###################
 
-![download (23)](https://user-images.githubusercontent.com/49966289/123093947-7f1fd280-d456-11eb-8206-c28158e4b368.png)
+![](https://user-images.githubusercontent.com/49966289/123093947-7f1fd280-d456-11eb-8206-c28158e4b368.png)
 
 
 
